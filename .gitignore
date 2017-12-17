@@ -206,3 +206,7 @@ venv.bak/
 
 
 Solution.pdf
+.idea/coursera-deep-learning-specialization.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
