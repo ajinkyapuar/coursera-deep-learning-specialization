@@ -205,7 +205,7 @@ venv.bak/
 # End of https://www.gitignore.io/api/macos,python,pycharm,jupyternotebook
 
 
-Solution.pdf
+Neural Networks and Deep Learning/2/practice-assignment-solution.pdf
 .idea/coursera-deep-learning-specialization.iml
 .idea/misc.xml
 .idea/modules.xml
